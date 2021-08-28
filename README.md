@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Checkout page</h1>
+<h1 align="center">Edie Homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://responsive-checkout.vercel.app">
+    <a href="https://responsive-edie-homepage.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ChigorinDenis/responsive-checkout">
+    <a href="https://github.com/ChigorinDenis/responsive-edie-homepage">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/ChigorinDenis/responsive-checkout/blob/main/src/img/screenshot.png)
+![screenshot](https://github.com/ChigorinDenis/responsive-edie-homepage/blob/main/src/img/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
